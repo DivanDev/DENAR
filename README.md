@@ -1,7 +1,6 @@
 # ⚡ DENAR L4/L7 Flood Tool
 
 ![Python Version](https://img.shields.io/badge/python-3.12-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Type](https://img.shields.io/badge/category-Network--Testing-red)
 
 **DENAR** — это высокопроизводительный инструмент на базе **Python 3.12**, оптимизированный для проведения стресс-тестирования сетевых ресурсов на уровнях L4 и L7
