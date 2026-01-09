@@ -23,7 +23,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone [https://github.com/DivanDev/DENAR.git](https://github.com/DivanDev/DENAR.git)
+git clone https://github.com/DivanDev/DENAR.git
 
 # Создание виртуального окружения
 python3.12 -m venv venv
