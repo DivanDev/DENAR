@@ -34,3 +34,4 @@ python3.12 -m venv venv
 source venv/bin/activate  
 # Для Windows:
 venv\Scripts\activate
+# python3 DENAR.py
