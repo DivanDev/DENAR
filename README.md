@@ -24,7 +24,6 @@
 ```bash
 # Клонирование репозитория
 git clone [https://github.com/DivanDev/DENAR.git](https://github.com/DivanDev/DENAR.git)
-cd DENAR
 
 # Создание виртуального окружения
 python3.12 -m venv venv
@@ -33,5 +32,18 @@ python3.12 -m venv venv
 # Для Linux/macOS:
 source venv/bin/activate  
 # Для Windows:
-venv\Scripts\activate
+venv\Scripts\activate|
+```
+### 2. Установка зависимостей:
+```bash
+
+pip install colorama
+```
+
+### 3. Запуск:
+```bash
+cd DENAR
 python3 DENAR.py
+```
+Отказ от ответственности:
+Этот инструмент создан исключительно в образовательных целях и для проведения санкционированного стресс-тестирования собственных ресурсов. Автор не несет ответственности за любой ущерб, причиненный в результате неправомерного использования данного программного обеспечения.
