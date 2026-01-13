@@ -1,3 +1,54 @@
+**ENG**
+# ⚡ DENAR L4/L7 Flood Tool
+
+![Python Version](https://img.shields.io/badge/python-3.12-blue.svg)
+![Type](https://img.shields.io/badge/category-Network--Testing-red)
+
+**DENAR** — high-performance **Python 3.12** tool optimized for L4 and L7 network stress testing.
+
+---
+
+## 🚀 Features
+
+* **L7 HTTP Flood**
+* **L4 TCP/UDP Flood**
+* **PROXY ATTACK**
+
+---
+
+## 🛠 Installation & Launch
+
+Tested on **Python 3.12**.
+
+### 1. Setup Environment
+```bash
+# Clone repository
+git clone [https://github.com/DivanDev/DENAR.git](https://github.com/DivanDev/DENAR.git)
+
+# Create venv
+python3.12 -m venv venv
+
+# Activate:
+# Linux/macOS:
+source venv/bin/activate  
+# Windows:
+venv\Scripts\activate
+
+2. Install dependencies:
+pip install colorama
+
+3. Run:
+python3 DENAR.py
+
+# or for proxy attack
+python3 DENARproxy.py
+
+Disclaimer:
+This tool is for educational purposes and authorized testing only. The author is not responsible for any misuse or damage.
+```
+
+
+
 # ⚡ DENAR L4/L7 Flood Tool
 
 ![Python Version](https://img.shields.io/badge/python-3.12-blue.svg)
