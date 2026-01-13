@@ -47,8 +47,7 @@ Disclaimer:
 This tool is for educational purposes and authorized testing only. The author is not responsible for any misuse or damage.
 ```
 
-
-
+**RU**
 # ⚡ DENAR L4/L7 Flood Tool
 
 ![Python Version](https://img.shields.io/badge/python-3.12-blue.svg)
